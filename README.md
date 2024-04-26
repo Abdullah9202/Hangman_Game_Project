@@ -1,0 +1,1 @@
+I've mainly used the OS and Random Module to create this Hangman game. Actually it's a guess game in which user is asked to guess the word. If he guesses the wrong character in the word, the hangman starts showing and if the user continuously guesses the wrong characters the lives will run out and game will over.
